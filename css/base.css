@@ -1,0 +1,26 @@
+body {
+  max-width: 960px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+header {
+  background-color: #f4aa42;
+  width: 100%;
+  height: 75px;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+  margin-left: 0;
+}
+
+footer div {
+  clear: both;
+  background-color: #f44195;
+  width: 100%;
+  height: 80px;
+}
